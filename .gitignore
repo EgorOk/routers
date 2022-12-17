@@ -36,3 +36,4 @@ composer.json
 composer.lock
 package.json
 vite.config.js
+phpunit.xml
