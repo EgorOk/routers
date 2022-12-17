@@ -14,8 +14,8 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/resourses/css
-/resourses/js
+/resources/css
+/resources/js
 /tests
 /routes/channels.php
 /routes/consols.php
